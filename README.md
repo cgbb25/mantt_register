@@ -19,7 +19,7 @@ Con ello. nos permite:
  * Proyectos
  * Estados de Máquinas
 
-![Imagen BD](./assets/Esquema BDs.jpg)
+![Imagen BD](./assets/Esquema_BDs.jpg)
 
 Los videos demostrativos del desarrollo del proyecto los puede encontrar en este enlace:
 https://drive.google.com/drive/folders/12fnMDtDSJEf9iLbD_NOYo-uvs_kojvAE?usp=sharing
